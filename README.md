@@ -30,21 +30,20 @@
 * Le tableau étant de type `Media`, il peut contenir des objets appartenant aux trois classes dérivées.
 * L'exercice montre ainsi comment l'héritage et le polymorphisme permettent de manipuler plusieurs types d'objets de manière uniforme.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 024935.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 024935.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 024959.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050927.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 025010.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 025021.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 025041.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 025117.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050927.png" />
 
 # Exercice 3 - Personne, Développeur et Manager
 
