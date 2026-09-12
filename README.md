@@ -9,21 +9,16 @@
 * Les différents objets sont regroupés dans un tableau de type `Forme`, même s'ils appartiennent à des classes différentes.
 * Cet exercice permet de comprendre le polymorphisme : lors de l'appel de `dessiner()`, Java choisit automatiquement la méthode correspondant au type réel de l'objet.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 024310.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 024329.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 024345.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050927.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 024410.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 024435.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050927.png" />
 
 # Exercice 2 - Gestion d'une bibliothèque multimédia
 
