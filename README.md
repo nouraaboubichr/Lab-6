@@ -55,18 +55,15 @@
 * Une méthode générique `listerPersonnes()` permet de parcourir des objets `Developpeur` et `Manager` et d'appeler leur méthode d'affichage.
 * Cet exercice permet donc de voir comment les classes abstraites et le polymorphisme peuvent être utilisés ensemble.
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 025739.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 025747.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 025758.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050927.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 025807.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041328.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 025816.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041341.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-12 025834.png" />
 
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 041353.png" />
-
-<img width="1270" height="674" alt="1" src="images/Capture d'écran 2026-09-10 050927.png" />
